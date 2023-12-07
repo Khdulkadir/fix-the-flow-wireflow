@@ -1,5 +1,7 @@
 # User Story
 
+User Goal: De eindgebruiker van mijn website is een lid van de Oba die op zijn profiel kijkt. De persoon kan boeken als favoriet aanklikken en deze boeken worden dan opgeslagen in de leeslijst. Deze leeslijst kan lang worden, dus om deze gebruiksvriendelijk te houden moet er door de lijst van favoriete boeken genavigeerd kunnen worden. Dit ga ik doen dmv een slider waar je als je op een pijltje klikt de volgende boek in beeld verschuift.
+
 User Story: Als OBA bezoeker wil ik een leeslijst op mijn profielpagina met al mijn favoriete boeken weergegeven in een slide. Als ik op het pijltje druk moet de volgende boek in de lijst in beeld verschuiven.
 
 https://github.com/fdnd-agency/oba/issues/29
